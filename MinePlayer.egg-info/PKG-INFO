@@ -1,6 +1,6 @@
 Metadata-Version: 2.1
 Name: MinePlayer
-Version: 1.0.0
+Version: 1.0.1
 Summary: A module to parse Minecraft player information
 Home-page: https://github.com/510208/mineplayer
 Download-URL: https://pypi.org/project/mineplayer/
@@ -66,3 +66,9 @@ logging.info(f"Player {player.username}'s information is {info}.")
 ## 謝誌 (Thanks)
 - Thank you to <a href="https://crafatar.com">Crafatar</a> for providing avatars.
 - Source of inspiration: [510208/yunyubot-dc-annou](https://github.com/510208/yunyubot-dc-annou)
+
+## 貢獻 (Countributing)
+如果您希望貢獻此專案，我們非常歡迎！請Fork此儲存庫，開啟一個以自己貢獻的內容為名的分支，在該分支上開發。
+開發完畢後，在GitHub頁面上提供完整說明，然後我們會盡快幫助您審核
+
+如果您在使用此程式時出了什麼問題，歡迎在GitHub的Issues告訴我們！我們會盡力幫助您的
