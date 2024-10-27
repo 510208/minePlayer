@@ -10,7 +10,7 @@ URL = "https://github.com/510208/mineplayer"
 DOWNLOAD_URL = "https://pypi.org/project/mineplayer/"
 
 LICENSE = "GNU General Public License v3.0"
-VERSION = "1.0.1"
+VERSION = "1.0.2"
 DESCRIPTION = "A module to parse Minecraft player information"
 LONG_DESCRIPTION = (HERE / "docs" / "README.md").read_text(encoding="utf8")
 LONG_DESC_TYPE = "text/markdown"
@@ -40,4 +40,7 @@ setup(
     extras_require=EXTRAS_REQUIRE,
     packages=find_packages(),
     classifiers=CLASSIFIERS,
+    project_urls={
+        "Source": "https://github.com/510208/minePlayer",
+    },
 )
