@@ -1,0 +1,2 @@
+# This file is used to list all the dependencies that are required by the project
+requests

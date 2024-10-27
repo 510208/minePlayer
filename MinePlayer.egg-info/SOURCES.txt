@@ -1,0 +1,10 @@
+LICENSE
+setup.py
+MinePlayer.egg-info/PKG-INFO
+MinePlayer.egg-info/SOURCES.txt
+MinePlayer.egg-info/dependency_links.txt
+MinePlayer.egg-info/requires.txt
+MinePlayer.egg-info/top_level.txt
+mineplayer/__init__.py
+mineplayer/mineplayer.py
+mineplayer/useravatar.py
