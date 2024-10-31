@@ -42,5 +42,6 @@ setup(
     classifiers=CLASSIFIERS,
     project_urls={
         "Source": "https://github.com/510208/minePlayer",
+        "Documentation": "https://github.com/510208/minePlayer/wiki"
     },
 )
