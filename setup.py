@@ -6,11 +6,11 @@ HERE = pathlib.Path(__file__).parent.resolve()
 PACKAGE_NAME = "MinePlayer"
 AUTHOR = "SamHacker"
 AUTHOR_EMAIL = "xux510208@gmail.com"
-URL = "https://github.com/510208/mineplayer"
+URL = "https://github.com/510208/minePlayer"
 DOWNLOAD_URL = "https://pypi.org/project/mineplayer/"
 
 LICENSE = "GNU General Public License v3.0"
-VERSION = "1.0.2"
+VERSION = "1.0.3"
 DESCRIPTION = "A module to parse Minecraft player information"
 LONG_DESCRIPTION = (HERE / "docs" / "README.md").read_text(encoding="utf8")
 LONG_DESC_TYPE = "text/markdown"
