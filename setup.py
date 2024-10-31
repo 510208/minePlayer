@@ -12,7 +12,7 @@ DOWNLOAD_URL = "https://pypi.org/project/mineplayer/"
 LICENSE = "GNU General Public License v3.0"
 VERSION = "1.0.3"
 DESCRIPTION = "A module to parse Minecraft player information"
-LONG_DESCRIPTION = (HERE / "docs" / "README.md").read_text(encoding="utf8")
+LONG_DESCRIPTION = (HERE / "README.md").read_text(encoding="utf8")
 LONG_DESC_TYPE = "text/markdown"
 
 requirements = (HERE / "requirements.txt").read_text(encoding="utf8")
