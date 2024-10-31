@@ -1,4 +1,8 @@
+![嗨，我是 (2)](https://github.com/user-attachments/assets/505aa5a8-f301-4a03-8dd3-1f086dd769fe)
+
 # MinePlayer
+
+![PyPI - Downloads](https://img.shields.io/pypi/dd/mineplayer?style=for-the-badge)![GitHub forks](https://img.shields.io/github/forks/510208/minePlayer?style=for-the-badge)![GitHub License](https://img.shields.io/github/license/510208/minePlayer?style=for-the-badge)![GitHub Repo stars](https://img.shields.io/github/stars/510208/minePlayer?style=for-the-badge)
 
 MinePlayer 是一款簡單的模組，提供使用者解析一個 Minecraft 玩家的資訊！
 
