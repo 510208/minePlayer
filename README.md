@@ -1,4 +1,4 @@
-![嗨，我是 (2)](https://github.com/user-attachments/assets/505aa5a8-f301-4a03-8dd3-1f086dd769fe)
+[![嗨，我是 (2)](https://github.com/user-attachments/assets/505aa5a8-f301-4a03-8dd3-1f086dd769fe)](https://samhacker.xyz/mineplayer/)
 
 # MinePlayer
 
