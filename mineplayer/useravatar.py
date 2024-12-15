@@ -1,3 +1,5 @@
+import re
+
 class UserAvatar():
     def __init__(self, user_uuid: str, api_path: str = "https://crafatar.com"):
         """Get the avatar URL of a Minecraft user by their UUID
@@ -25,6 +27,9 @@ class UserAvatar():
         -----------
         api_path: str
             The path of the API"""
+        # 確認Avatar前綴是否有https://或http://，如果沒有就先加上去
+        if not re.match(r"https?://", api_path):
+            api_path = "https://" + api_path
         self.avatar = f"{api_path}/avatars/{self.user_uuid}"
         self.avatar_overlay = f"{api_path}/avatars/{self.user_uuid}?overlay"
         self.head_render = f"{api_path}/renders/head/{self.user_uuid}"
